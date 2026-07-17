@@ -1,5 +1,5 @@
 # Pizza-Deliciosa
-[ScreenSlauth](https://github.com/ScreenSlauth)
+[Not-Just-Pratul](https://github.com/not-just-pratul)
 
 ## Description
 
